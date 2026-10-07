@@ -11,7 +11,7 @@ I am a sophomore at Faculty of Technical Sciences in Novi Sad, Serbia. Currently
   
 | 🎯 **Skills** | 🏆 **Stats** | 🌱 **Interests** | 🎨 **Personal** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/> <br> <b>C/C++</b> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> <br> <b>Python</b> | <img src="https://github-readme-stats-fast.vercel.app/api?username=doedarnma&show_icons=true&theme=radical" width="250"/> | 💻 Hackathons <br> 🤖 Robotics Competitions <br> 🧠 Machine Learning and AI <br> 🎮 Game Jams | 🎹 Piano <br> 🎸 Electric Guitar <br> 📸 Photography and Drone Filming <br> 🎬 Video Editing <br> 🎮 Gaming <br> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/> <br> <b>C/C++</b> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> <br> <b>Python</b> | <img src="https://github-readme-stats-fast.vercel.app/api?username=doedarnma&show_icons=true&theme=radical" width="250"/> | 💻 Hackathons <br> 🤖 Robotics Competitions <br> 🧠 Machine Learning and AI <br> 🎮 Game Jams | 🎹 Piano <br> 📸 Photography and Drone Filming <br> 🎬 Video Editing <br> 🎮 Gaming <br> |
 
 </div>
 
