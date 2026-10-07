@@ -3,7 +3,7 @@
 
 ## My name is Tamara and welcome to my profile!
 
-I am a sophomore at Faculty of Technical Sciences in Novi Sad, Serbia. Currently, I am open to broadening my knowledge in machine learning, robotics and video game development, as well as further developing my skills in C/C++ and Python! <br>
+I am a junior at Faculty of Technical Sciences (Computer Control Systems) in Novi Sad, Serbia. Currently, I am open to broadening my knowledge in machine learning, robotics and video game development, as well as further developing my skills in C/C++ and Python! <br>
 
 ---
 
